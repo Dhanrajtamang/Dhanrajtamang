@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<div style={{padding: '1rem', backgroundColor: 'violet'}}>
+  Try and change the background color to `tomato`.
+</div>
 <!--
 **Dhanrajtamang/Dhanrajtamang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
